@@ -1,5 +1,5 @@
 prometheus_client==0.13.1
-requests==2.27.1
+requests==2.32.2
 pygelf==0.4.2
 stellar-sdk>=2.11.1
 git+https://github.com/DevinNorgarb/ccxt-valr.git@master#egg=ccxt-valr&subdirectory=python
